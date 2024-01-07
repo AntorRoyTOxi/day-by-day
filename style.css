@@ -167,7 +167,7 @@ margin-top: 25px;
         } 
          .last-footer-div{ 
           display: flex; 
-           gap: 200px; 
+          
             margin:  230px 300px; 
              padding-top: 130px; 
              
@@ -189,14 +189,17 @@ margin-top: 25px;
 
           } 
            .last-footer-head{ 
-            width:500px; 
+            width:1500px; 
             
-           } 
+           }  
+            .last-footer-head1{ 
+                           margin-left: 150px;
+            }
            
             .footer-pera{ 
               color: #FFF;
             
-              font-size: 14px;
+              font-size: 15px;
              
               font-weight: 400; 
                margin-bottom: 16px;
